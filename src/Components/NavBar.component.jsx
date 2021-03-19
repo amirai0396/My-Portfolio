@@ -12,27 +12,27 @@ function NavBar() {
         <ul className='nav-items'>
           <li className='nav-item'>
             <NavLink to='/' exact activeClassName='active'>
-              .Home()
+              .home()
             </NavLink>
           </li>
           <li className='nav-item'>
             <NavLink to='/about' exact activeClassName='active'>
-              .About()
+              .about()
             </NavLink>
           </li>
           <li className='nav-item'>
             <NavLink to='/skills' exact activeClassName='active'>
-              .Skills()
+              .skills()
             </NavLink>
           </li>
           <li className='nav-item'>
             <NavLink to='/projects' exact activeClassName='active'>
-              .Projects()
+              .projects()
             </NavLink>
           </li>
           <li className='nav-item'>
             <NavLink to='/contact' exact activeClassName='active'>
-              .Contact()
+              .contact()
             </NavLink>
           </li>
         </ul>

@@ -4,7 +4,7 @@ import '../Styles/_HomPage.styles.scss';
 
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faTwitter } from '@fortawesome/free-brands-svg-icons';
-import { faFacebook } from '@fortawesome/free-brands-svg-icons';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function HomePage() {
@@ -26,9 +26,6 @@ function HomePage() {
           </Link>
           <Link to='/' className='icon-holder'>
             <FontAwesomeIcon icon={faTwitter} className='icon tt' />
-          </Link>
-          <Link to='/' className='icon-holder'>
-            <FontAwesomeIcon icon={faFacebook} className='icon fb' />
           </Link>
         </div>
       </header>

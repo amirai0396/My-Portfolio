@@ -1,3 +1,11 @@
+import a from '../images/projects/a.png';
+import b from '../images/projects/b.png';
+import c from '../images/projects/c.png';
+import d from '../images/projects/d.png';
+import e from '../images/projects/e.png';
+import f from '../images/projects/f.png';
+import g from '../images/projects/g.png';
+
 const Projects = [
   {
     id: 1,
@@ -6,7 +14,7 @@ const Projects = [
     link2: 'https://github.com/amirai0396/travelly-project',
     icon1: 'G',
     icon2: 'Y',
-    image: '',
+    image: a,
     title: 'Travelly',
   },
   {
@@ -16,7 +24,7 @@ const Projects = [
     link2: 'https://github.com/amirai0396/money-grow',
     icon1: 'G',
     icon2: 'Y',
-    image: '',
+    image: b,
     title: 'Money-Grow',
   },
   {
@@ -26,7 +34,7 @@ const Projects = [
     link2: 'https://github.com/amirai0396/money-grow-webpage',
     icon1: 'G',
     icon2: 'Y',
-    image: '',
+    image: c,
     title: 'Money-grow',
   },
   {
@@ -36,7 +44,7 @@ const Projects = [
     link2: 'https://github.com/amirai0396/Crown-clothing',
     icon1: 'G',
     icon2: 'Y',
-    image: '',
+    image: d,
     title: 'Crown-Clothing',
   },
   {
@@ -46,7 +54,7 @@ const Projects = [
     link2: 'wooden-homes.netlify.app/',
     icon1: 'G',
     icon2: 'Y',
-    image: '',
+    image: e,
     title: 'Vanilla Javascript E-commerce',
   },
   {
@@ -56,7 +64,7 @@ const Projects = [
     link2: 'https://github.com/amirai0396/Tour-',
     icon1: 'G',
     icon2: 'Y',
-    image: '',
+    image: f,
     title: 'Tour',
   },
   {
@@ -66,7 +74,7 @@ const Projects = [
     link2: 'https://github.com/amirai0396/monsters-pub',
     icon1: 'G',
     icon2: 'Y',
-    image: '',
+    image: g,
     title: 'Monsters-Pub',
   },
 ];

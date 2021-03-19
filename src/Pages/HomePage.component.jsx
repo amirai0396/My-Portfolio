@@ -12,7 +12,8 @@ function HomePage() {
     <div className='HomePage'>
       <header className='hero'>
         <h1 className='hero-text'>
-          Hey, <br /> I am <span>AMI RAI.</span>
+          Hey,
+          <br /> I am <span>AMI RAI.</span>
         </h1>
         <p className='homepage-sub-text'>
           I'm a Frontend Developer <br /> who creates clean and modern content

@@ -17,7 +17,7 @@
   .about-info {
     margin-left: 2rem;
     h4 {
-      color: black;
+      color: aliceblue;
       font-size: 2rem;
     }
     .about-text {
@@ -25,7 +25,7 @@
     }
     p {
       padding-top: 2rem;
-      color: black;
+      color: aliceblue;
       font-weight: 900;
     }
   }
@@ -39,7 +39,7 @@
   .right-section {
     margin-left: 2.3rem;
     p {
-      color: #ca6500;
+      color: #ffb900;
     }
   }
 }
@@ -50,6 +50,7 @@
   outline: none;
   border: none;
   font-family: inherit;
+  font-weight: 900;
   font-size: inherit;
   color: rgb(5, 5, 5);
   text-transform: uppercase;
@@ -64,7 +65,7 @@
     height: 0.3rem;
     left: 0;
     bottom: 0;
-    background-color: #000000;
+    background-color: goldenrod;
     transition: all 0.4s ease-in-out;
   }
   &:hover::after {
@@ -74,7 +75,7 @@
 
 .btn-port {
   padding: 0.6rem 2rem;
-  background-color: black;
+  background-color: slateGrey;
   border: none;
   outline: none;
   cursor: pointer;

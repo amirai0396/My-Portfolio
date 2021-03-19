@@ -17,7 +17,7 @@ function App() {
   };
   return (
     <div className='App'>
-      <div className='sidebar'>
+      <div className={`sidebar ${navToggle ? 'nav-toggle' : ''}`}>
         <NavBar />
       </div>
       <div className='nav-btn' onClick={navClick}>

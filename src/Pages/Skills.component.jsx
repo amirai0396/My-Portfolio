@@ -20,7 +20,11 @@ function SkillsPage() {
         <SkillsSection skill={'FIREBASE'} progress={'60%'} width={'60%'} />
         <SkillsSection skill={'SCSS/SASS'} progress={'80%'} width={'80%'} />
         <SkillsSection skill={'Web Design'} progress={'75%'} width={'75%'} />
-        <SkillsSection skill={'UI/Ux Design'} progress={'50%'} width={'50%'} />
+        <SkillsSection
+          skill={'Web Development'}
+          progress={'70%'}
+          width={'70%'}
+        />
       </div>
 
       <Tittle title={'Services'} span={'Services'} />

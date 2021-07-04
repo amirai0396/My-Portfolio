@@ -4,7 +4,6 @@ import phone from '../images/phone.png';
 import emailme from '../images/email.png';
 import location from '../images/Location.png';
 import Tittle from '../Components/Title.component';
-import ContactForm from '../Components/contactUs.component';
 
 function ContactPage() {
   return (

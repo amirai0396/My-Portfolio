@@ -21,7 +21,7 @@ function HomePage() {
           for the World-Wide-Web.
         </p>
         <div className='icons'>
-          <Link to='/' className='icon-holder'>
+          <Link to='https://github.com/amirai0396' className='icon-holder'>
             <FontAwesomeIcon icon={faGithub} className='icon gh' />
           </Link>
           <Link to='/' className='icon-holder'>

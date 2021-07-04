@@ -10,7 +10,7 @@ const Projects = [
   {
     id: 1,
     category: 'Html/Css',
-    link1: 'competent-sammet-a965b4.netlify.app/',
+    link1: 'https://competent-sammet-a965b4.netlify.app/',
     link2: 'https://github.com/amirai0396/travelly-project',
     icon1: 'G',
     icon2: 'Y',
@@ -40,7 +40,7 @@ const Projects = [
   {
     id: 4,
     category: 'React Js',
-    link1: 'www.youtube.com',
+    link1: 'https://crown-fashions.herokuapp.com/',
     link2: 'https://github.com/amirai0396/Crown-clothing',
     icon1: 'G',
     icon2: 'Y',
@@ -70,7 +70,7 @@ const Projects = [
   {
     id: 7,
     category: 'React Js',
-    link1: 'www.youtube.com',
+    link1: '/',
     link2: 'https://github.com/amirai0396/monsters-pub',
     icon1: 'G',
     icon2: 'Y',
